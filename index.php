@@ -11,7 +11,7 @@ $username = "USERNAME";
 $password = "PASSWORD";
 $host = "cn.portaone.com";
 
-// You can get chat_id via getUpdates API method
+// You can get chat_id via getUpdates API method 2
 $chat_id = "CHAT ID";
 
 while(true) {
