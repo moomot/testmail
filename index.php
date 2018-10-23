@@ -1,6 +1,7 @@
 <?php
 require __DIR__ . '/vendor/autoload.php';
 
+
 use Longman\TelegramBot\Request;
 use Longman\TelegramBot\Telegram;
 
